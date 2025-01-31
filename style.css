@@ -41,3 +41,11 @@ button:hover{
     color: #D1D5DE;
     transition: background 200ms ease-in,color 200ms ease-in ;
 }
+
+.wallpaper img{
+    width:25rem;
+    border-radius: 2rem;
+    size: cover;
+    margin-top:3rem;
+    margin-bottom:2rem;
+}
